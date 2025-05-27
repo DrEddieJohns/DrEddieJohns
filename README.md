@@ -1,6 +1,6 @@
 # 👋 Aloha! I’m Dr. Eddie Johns
 
-🎓 I'm an educator, curriculum developer, and aspiring computer science graduate student currently exploring the intersection of **education, AI, and automation**. With a doctorate in education and a deep interest in using technology to empower learners and streamline systems, I'm now expanding my technical toolkit as I prepare to apply for the **Georgia Tech OMSCS** program.
+🎓 I'm a teacher educator, curriculum developer, and aspiring computer science graduate student currently exploring the intersection of **education, AI, and automation**. With a doctorate in education from USC and a deep interest in using technology to empower learners and streamline systems, I'm now expanding my technical toolkit as I prepare to apply for the **Georgia Tech OMSCS** program.
 
 ---
 
